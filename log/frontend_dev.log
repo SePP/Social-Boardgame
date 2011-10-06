@@ -1,0 +1,14 @@
+Oct 06 15:03:27 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Oct 06 15:03:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Oct 06 15:03:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Oct 06 15:03:27 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Oct 06 15:03:27 symfony [info] {sfPHPView} Render "/home/jesse/Social-Boardgame/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Oct 06 15:03:27 symfony [info] {sfPHPView} Decorate content with "/home/jesse/Social-Boardgame/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 06 15:03:27 symfony [info] {sfPHPView} Render "/home/jesse/Social-Boardgame/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Oct 06 15:03:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Oct 06 15:03:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Oct 06 15:03:27 symfony [info] {sfWebDebugLogger} Configuration 69.82 ms (9)
+Oct 06 15:03:27 symfony [info] {sfWebDebugLogger} Factories 84.77 ms (1)
+Oct 06 15:03:27 symfony [info] {sfWebDebugLogger} Action "default/index" 0.08 ms (1)
+Oct 06 15:03:27 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 17.71 ms (1)
+Oct 06 15:03:27 symfony [info] {sfWebResponse} Send content (29472 o)
