@@ -1,0 +1,6 @@
+[submodule "plugins/sfPropelORMPlugin"]
+	path = plugins/sfPropelORMPlugin
+	url = http://github.com/propelorm/sfPropelORMPlugin.git
+[submodule "lib/facebook"]
+	path = lib/facebook
+	url = https://github.com/facebook/php-sdk.git
